@@ -1,0 +1,14 @@
+body {
+  font-family: 'Raleway', 'Noto Sans TC', sans-serif;
+  background: #1D976C; 
+  background: -webkit-linear-gradient(to right, #93F9B9, #1D976C);  
+  background: linear-gradient(to right, #93F9B9, #1D976C); 
+  height: 100vh;
+  font-weight: 300;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+h3 {
+    padding-bottom: 30px;
+}
